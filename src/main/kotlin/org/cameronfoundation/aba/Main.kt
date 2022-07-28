@@ -32,8 +32,6 @@ fun main(args: Array<String>) {
 
     //todo Switch between generating CBA file and sending email notifications
 
-    //todo Move out of Github
-
     //Configure the generator for Cameron Foundation
     val generator = Generator(
         bsb = "063-142",
